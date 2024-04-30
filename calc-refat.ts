@@ -1,3 +1,4 @@
+/*Ana Luiza de Assis*/
 const teclado = require(`prompt-sync`)();
 let resultado: number = 0;
 let n1: number = 0;
